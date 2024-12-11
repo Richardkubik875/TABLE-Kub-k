@@ -1,0 +1,68 @@
+td, th, tr{
+    border: 1px solid black; text-align: center;
+    width: 70px;
+    height: 70px;
+}
+.prazdna{
+    empty-cells: hide;
+    border: 0px solid white;
+}
+.bezbar{
+    border: 1px solid white;
+}
+.alkkov{
+    background-color: red;
+}
+.alkkov1{
+    background-color: red;
+    border: 1px solid white;
+}
+.alkzem{
+    background-color: orange
+}
+.alkzem1{
+    background-color: orange;
+    border: 1px solid white;
+}
+.nekovy1{
+    background-color: green;
+    border: 1px solid white;
+}
+.nekovy{
+    background-color: green;
+}
+.plyny1{
+    background-color: yellow;
+    border: 1px solid white; 
+}
+.plyny{
+    background-color: yellow;
+}
+.polokov1{
+    background-color: grey;
+    border: 1px solid white;
+}
+.polokov{
+    background-color: grey; 
+}
+.halogeny1{
+    background-color: purple;
+    border: 1px solid white;
+}
+.halogeny{
+    background-color: purple;
+}
+.kov1{
+    background-color: lightblue;
+    border: 1px solid white;
+}
+.kov{
+    background-color: lightblue;
+}
+.prechkov1{
+    background-color: blue;
+    border: 1px solid white;
+}
+.prechkov{
+    background-color: blue;
+}
